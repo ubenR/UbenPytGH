@@ -8,3 +8,4 @@ os.system('wait 5000')
 
 os.system('exit')
 aa
+bb
